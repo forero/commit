@@ -6,7 +6,7 @@
 | Project | Commits | Published|
 | -------- |------- | ---- |
 |[RotationLyAlpha](https://github.com/jngaravitoc/RotationLyAlpha)|828| Yes|
-|[SatelliteShapeLG](https://github.com/astroandes/SatelliteShapeLG)| 670 | No |
+|[SatelliteShapeLG](https://github.com/astroandes/SatelliteShapeLG)| 670 | Yes |
 |[MACH](https://github.com/astroandes/MACH)| 668 | Yes|
 |[TololoLyaFit](https://github.com/astroandes/tololo-lya-fit)| 378| Yes|
 |[CosmicVoids](https://github.com/sbustamante/CosmicVoidsPaper)|287| Yes|
